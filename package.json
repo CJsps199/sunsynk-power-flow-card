@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/slipx06/sunsynk-power-flow-card.git"
+    "url": "git+https://github.com/CJsps199/sunsynk-power-flow-card.git"
   },
   "author": "slipx06 <slipx06@users.noreply.github.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/slipx06/sunsynk-power-flow-card/issues"
   },
-  "homepage": "https://github.com/slipx06/sunsynk-power-flow-card#readme",
+  "homepage": "https://github.com/CJsps199/sunsynk-power-flow-card#readme",
   "dependencies": {
     "@lit-labs/scoped-registry-mixin": "^1.0.3",
     "custom-card-helpers": "^1.9.0",
